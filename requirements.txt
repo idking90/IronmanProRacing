@@ -1,0 +1,8 @@
+flask
+flask_sqlalchemy
+requests
+beautifulsoup4
+pdfplumber
+apscheduler
+gunicorn
+psycopg2-binary
